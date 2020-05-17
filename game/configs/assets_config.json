@@ -1,0 +1,7 @@
+{
+    "resources":{
+        "initial": [
+            {"name":"main","src": "./assets/main.json"}
+          ]
+    }
+}
